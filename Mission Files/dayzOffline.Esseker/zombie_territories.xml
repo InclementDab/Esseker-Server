@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+    <territory color="1910952871">
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="8504.09" z="9934.28" r="100"/>
+		<zone name="InfectedSolitude" smin="0" smax="0" dmin="3" dmax="5" x="10465.24" z="5487.37" r="75"/> // lower esseker
+		<zone name="InfectedSolitude" smin="0" smax="0" dmin="3" dmax="5" x="10575.81" z="5543.20" r="75"/> // lower esseker
+		<zone name="InfectedSolitude" smin="0" smax="0" dmin="3" dmax="5" x="10667.09" z="5463.89" r="75"/> // lower esseker
+		<zone name="InfectedSolitude" smin="0" smax="0" dmin="3" dmax="5" x="10854.21" z="5393.80" r="75"/> // lower esseker
+		<zone name="InfectedSolitude" smin="0" smax="0" dmin="3" dmax="5" x="8629.82" z="5902.56" r="75"/> // esseker slums
+		<zone name="InfectedSolitude" smin="0" smax="0" dmin="3" dmax="5" x="8565.77" z="9915.49" r="75"/> // igman east solitary house
+		<zone name="InfectedSolitude" smin="0" smax="0" dmin="3" dmax="5" x="11512.64" z="7138.96" r="75"/> // east solitary house
+    </territory>
+    <!--<territory color="4290351729">
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="7" dmax="13" x="12847.5" z="15075" r="120"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="7" dmax="13" x="13057.5" z="14970" r="120"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="7" dmax="13" x="14025" z="15052.5" r="140"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="1" dmax="5" x="11977.5" z="11730" r="110"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="5" dmax="10" x="12487.5" z="11775" r="90"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="1" dmax="5" x="14205" z="9672.86" r="60"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="1" dmax="5" x="12147.9" z="11844.6" r="90"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="7" dmax="13" x="12165" z="11673.2" r="80"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="7" dmax="13" x="12315" z="11775" r="80"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="7" dmax="13" x="14130" z="9552.5" r="80"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="4" dmax="8" x="14292.6" z="9496.67" r="80"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="7" dmax="13" x="12020" z="3505" r="80"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="7" dmax="13" x="12198.2" z="3519.78" r="80"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="5" dmax="10" x="10175" z="2285" r="80"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="5" dmax="10" x="10509.2" z="2097.5" r="80"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="7" dmax="13" x="9621.7" z="1960.83" r="80"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="5" dmax="10" x="10291.7" z="2860.83" r="100"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="7" dmax="13" x="9384.2" z="2014.58" r="80"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="7" dmax="13" x="9185" z="3845" r="130"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="7" dmax="13" x="8046.07" z="3330.71" r="80"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="7" dmax="13" x="4400" z="2470" r="80"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="7" dmax="13" x="6191.88" z="2940.63" r="160"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="7" dmax="13" x="4548.75" z="2573.75" r="100"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="7" dmax="13" x="4890" z="2826.25" r="100"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="7" dmax="13" x="4523.75" z="2357.5" r="80"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="7" dmax="13" x="6464.38" z="3076.25" r="120"/>
+    </territory>-->
+    <territory color="1289674462">
+        <zone name="InfectedPrisoner" smin="0" smax="0" dmin="10" dmax="20" x="2698.18" z="1285.76" r="150"/>
+    </territory>
+    <territory color="4290483455">
+    </territory>
+    <territory color="4292911615">
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="2" x="3630" z="2205" r="90"/>
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="4" dmax="5" x="9024.34" z="7908.25" r="90"/>
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="3" dmax="4" x="11150.9" z="9072.33" r="90"/>
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="3" dmax="4" x="9127.52" z="5566.03" r="90"/>
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="3" dmax="4" x="6593.13" z="6057.97" r="60"/>
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="2" x="6345.01" z="6961.9" r="50"/>
+		<zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="5" x="4761.26" z="5151.24" r="50"/> // kula industrial
+		<zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="5" x="11474.90" z="9400.90" r="90"/> // east of borosh farm industrial
+		<zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="5" x="11143.88" z="9063.88" r="90"/> // south east of borosh industrial
+		<zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="5" x="9572.49" z="9600.41" r="90"/> // solitary industrial farm water source
+		<zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="5" x="7357.58" z="5334.85" r="90"/> // matija weiss college construction
+		<zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="5" x="8193.31" z="5618.08" r="90"/> // west industrial
+		<zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="5" x="8380.38" z="5509.05" r="90"/> // west industrial
+		<zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="5" x="8248.41" z="5429.09" r="90"/> // west industrial
+		<zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="5" x="8040.51" z="5646.86" r="90"/> // west industrial
+		<zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="5" x="8076.19" z="5780.47" r="90"/> // west industrial
+
+    </territory>
+    <territory color="1790009876">
+        <zone name="InfectedFirefighter" smin="0" smax="0" dmin="1" dmax="3" x="6502.79" z="2335.25" r="50"/>
+        <zone name="InfectedFirefighter" smin="0" smax="0" dmin="2" dmax="5" x="11825.9" z="7875.86" r="50"/>
+    </territory>
+    <territory color="1124502272">
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="5" x="7607.1" z="10158.6" r="100"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="2" x="7659.19" z="10152.6" r="100"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="1" dmax="3" x="7757.92" z="9966.82" r="100"/>
+        <zone name="InfectedArmy" smin="2" smax="5" dmin="4" dmax="8" x="10940.2" z="6586.58" r="100"/>  // Radar Station
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="3" dmax="4" x="9556.29" z="5681.79" r="50"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="2" x="8903.05" z="5440.34" r="50"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="2" x="8765.09" z="5394.04" r="50"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="3" dmax="4" x="6368.17" z="5578.43" r="60"/>
+		<zone name="InfectedArmy" smin="2" smax="5" dmin="5" dmax="15" x="10018.47" z="4840.22" r="100"/> // South Airfield
+		<zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="4" x="10034.83" z="4921.73" r="50"/> // South Airfield
+		<zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="4" x="9792.38" z="4828.33" r="50"/> // South Airfield Parking Lot
+		<zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="4" x="9909.48" z="4772.29" r="50"/> // South Airfield Barracks
+		<zone name="InfectedArmy" smin="2" smax="4" dmin="2" dmax="5" x="9538.74" z="4809.71" r="100"/> // South Industrial
+		<zone name="InfectedArmy" smin="2" smax="4" dmin="2" dmax="5" x="7627.53" z="10153.29" r="100"/> // igman military
+    </territory>
+    <territory color="2809946700">
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="5" x="10157" z="9815.4" r="150"/>
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="5" x="10109.3" z="9846.75" r="130"/>
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="5" x="10050.7" z="9907.52" r="130"/>
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="5" x="11902.5" z="8014.36" r="80"/>
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="5" x="11821.3" z="7956.52" r="130"/>
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="2" x="9574.56" z="9578.56" r="130"/>
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="2" x="9165.48" z="9693.75" r="130"/>
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="2" x="8954.64" z="9751.83" r="130"/>
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="2" x="7262.44" z="9374.82" r="130"/>
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="2" x="7178.71" z="9378.2" r="130"/>
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="2" x="7050.84" z="9310.52" r="130"/>
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="3" x="7211.94" z="9298.49" r="130"/>
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="3" x="6407.12" z="6193.71" r="60"/>
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="4" x="6265.21" z="6203.35" r="60"/>
+        <zone name="InfectedVillage" smin="1" smax="3" dmin="3" dmax="7" x="6208.98" z="6858.09" r="100"/> // Lug
+		<zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="4" x="6066.15" z="6934.67" r="50"/> // Lug gas station
+		<zone name="InfectedVillage" smin="1" smax="3" dmin="3" dmax="7" x="7833.51" z="6868.34" r="75"/> // Posestra
+		<zone name="InfectedVillage" smin="1" smax="3" dmin="3" dmax="7" x="6451.13" z="5501.10" r="75"/> // neptune resort
+		<zone name="InfectedVillage" smin="1" smax="3" dmin="3" dmax="7" x="6370.80" z="5581.87" r="75"/> // neptune resort
+		<zone name="InfectedVillage" smin="1" smax="3" dmin="3" dmax="7" x="6333.78" z="5587.10" r="75"/> // neptune resort
+		<zone name="InfectedVillage" smin="1" smax="3" dmin="3" dmax="7" x="8595.94" z="5522.68" r="75"/> // zoo
+		<zone name="InfectedVillage" smin="1" smax="3" dmin="3" dmax="7" x="8781.78" z="5487.22" r="75"/> // zoo
+		<zone name="InfectedVillage" smin="1" smax="3" dmin="3" dmax="7" x="8648.38" z="5437.26" r="75"/> // zoo
+		<zone name="InfectedVillage" smin="1" smax="3" dmin="3" dmax="7" x="8334.99" z="5673.76" r="75"/> // grocery
+		<zone name="InfectedVillage" smin="1" smax="3" dmin="3" dmax="7" x="7602.08" z="5557.18" r="75"/> // small house
+		<zone name="InfectedVillage" smin="1" smax="3" dmin="3" dmax="7" x="6244.93" z="6075.20" r="75"/> // gulash
+		<zone name="InfectedVillage" smin="1" smax="3" dmin="3" dmax="7" x="6406.74" z="6169.37" r="75"/> // gulash
+		<zone name="InfectedVillage" smin="1" smax="3" dmin="3" dmax="7" x="6352.17" z="6280.45" r="75"/> // gulash
+		<zone name="InfectedVillage" smin="1" smax="3" dmin="3" dmax="7" x="6509.16" z="6072.25" r="75"/> // gulash bar
+		<zone name="InfectedVillage" smin="1" smax="3" dmin="3" dmax="7" x="6181.67" z="6847.91" r="75"/> // lug south
+		<zone name="InfectedVillage" smin="1" smax="3" dmin="3" dmax="7" x="7445.90" z="9398.29" r="75"/> // tuk east
+		<zone name="InfectedVillage" smin="1" smax="3" dmin="3" dmax="7" x="7166.95" z="9268.99" r="75"/> // tuk south
+		<zone name="InfectedVillage" smin="1" smax="3" dmin="3" dmax="7" x="6985.79" z="9300.88" r="75"/> // tuk west
+		<zone name="InfectedVillage" smin="1" smax="3" dmin="3" dmax="7" x="7123.57" z="9344.76" r="75"/> // tuk center
+		<zone name="InfectedVillage" smin="1" smax="3" dmin="3" dmax="7" x="8133.36" z="9900.83" r="75"/> // igman bars
+		<zone name="InfectedVillage" smin="1" smax="3" dmin="3" dmax="7" x="8925.14" z="9812.46" r="75"/> // solitary farm house
+		<zone name="InfectedVillage" smin="1" smax="3" dmin="3" dmax="7" x="8968.36" z="9750.00" r="75"/> // solitary farm house
+		<zone name="InfectedVillage" smin="1" smax="3" dmin="3" dmax="7" x="9159.33" z="9694.65" r="75"/> // solitary farm house water source
+		<zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="5" x="10199.32" z="9916.63" r="75"/> // borosh east farm
+    </territory>
+    <territory color="1794965508">
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="2" dmax="4" x="10093" z="9880.99" r="50"/>
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="2" dmax="4" x="9499.28" z="5669.12" r="50"/>
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="2" dmax="4" x="1194.34" z="7867.51" r="50"/>
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="2" dmax="4" x="1194.31" z="7867.91" r="50"/>
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="2" dmax="4" x="6326.91" z="7867.91" r="50"/>
+		<zone name="InfectedPolice" smin="0" smax="0" dmin="2" dmax="5" x="7762.71" z="6919.63" r="50"/> // Posestra police
+		<zone name="InfectedPolice" smin="0" smax="0" dmin="2" dmax="5" x="10734.69" z="5433.24" r="50"/> // lower esseker police
+		<zone name="InfectedPolice" smin="0" smax="0" dmin="2" dmax="5" x="11927.50" z="7869.23" r="50"/> // novi grad police
+    </territory>
+    <territory color="1136576269">
+        <zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="5" x="106453" z="12650.8" r="120"/>
+        <zone name="InfectedCity" smin="0" smax="0" dmin="2" dmax="5" x="10304.5" z="5536.3" r="140"/>
+        <zone name="InfectedCity" smin="0" smax="0" dmin="2" dmax="5" x="10146.1" z="5424.92" r="140"/>
+        <zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="5" x="9592.97" z="5733.97" r="120"/>
+        <zone name="InfectedCity" smin="0" smax="0" dmin="2" dmax="4" x="9345.56" z="5763.43" r="120"/>
+        <zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="5" x="8339.88" z="5739.22" r="120"/>
+        <zone name="InfectedCity" smin="0" smax="0" dmin="2" dmax="5" x="8199.19" z="5512.77" r="140"/>
+        <zone name="InfectedCity" smin="0" smax="0" dmin="2" dmax="4" x="8049.18" z="5497.73" r="120"/>
+        <zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="4" x="10054.7" z="5626.45" r="50"/>
+        <zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="4" x="9994.12" z="5689.8" r="50"/>
+        <zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="4" x="9449.44" z="5475.35" r="50"/>
+        <zone name="InfectedCity" smin="0" smax="0" dmin="2" dmax="5" x="6474.83" z="6174.58" r="50"/>
+        <zone name="InfectedCity" smin="0" smax="0" dmin="2" dmax="5" x="6280.33" z="6942.6" r="50"/>
+		<zone name="InfectedCity" smin="1" smax="5" dmin="2" dmax="8" x="7694.29" z="6915.19" r="100"/>  // Posestra
+		<zone name="InfectedCity" smin="1" smax="5" dmin="2" dmax="8" x="9948.16" z="5567.22" r="100"/> // essker city
+		<zone name="InfectedCity" smin="1" smax="5" dmin="2" dmax="8" x="9373.21" z="5682.74" r="100"/> // essker city
+		<zone name="InfectedCity" smin="1" smax="5" dmin="2" dmax="8" x="9484.37" z="5732.22" r="100"/> // essker city
+		<zone name="InfectedCity" smin="1" smax="5" dmin="2" dmax="8" x="9304.04" z="5686.49" r="100"/> // essker city
+		<zone name="InfectedCity" smin="1" smax="5" dmin="2" dmax="8" x="9358.05" z="5610.60" r="100"/> // essker city
+		<zone name="InfectedCity" smin="1" smax="5" dmin="2" dmax="8" x="9538.79" z="5651.03" r="100"/> // essker city
+		<zone name="InfectedCity" smin="1" smax="5" dmin="2" dmax="8" x="9632.55" z="5636.84" r="100"/> // essker city
+		<zone name="InfectedCity" smin="1" smax="5" dmin="2" dmax="8" x="9687.02" z="5721.62" r="100"/> // essker city
+		<zone name="InfectedCity" smin="1" smax="5" dmin="2" dmax="8" x="9726.50" z="5636.66" r="100"/> // essker city
+		<zone name="InfectedCity" smin="1" smax="5" dmin="2" dmax="8" x="10031.09" z="5770.85" r="100"/> // essker city
+		<zone name="InfectedCity" smin="1" smax="5" dmin="2" dmax="8" x="10167.78" z="5608.42" r="100"/> // essker city
+		<zone name="InfectedCity" smin="1" smax="5" dmin="2" dmax="8" x="10371.70" z="5560.93" r="100"/> // essker city
+		<zone name="InfectedCity" smin="1" smax="5" dmin="2" dmax="8" x="10345.70" z="5495.12" r="100"/> // essker city
+		<zone name="InfectedCity" smin="1" smax="5" dmin="2" dmax="8" x="8579.52" z="5776.88" r="100"/> // essker city
+		<zone name="InfectedCity" smin="1" smax="5" dmin="2" dmax="8" x="8332.93" z="5875.60" r="100"/> // essker city
+		<zone name="InfectedCity" smin="1" smax="5" dmin="2" dmax="8" x="8894.43" z="5597.22" r="100"/> // zoo entrance
+		<zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="5" x="5053.45" z="5128.71" r="100"/> // kula east
+		<zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="5" x="4871.66" z="5181.85" r="100"/> // kula north
+		<zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="5" x="4772.79" z="5064.25" r="100"/> // kula west
+		<zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="5" x="10125.32" z="7931.20" r="50"/> // chardak resort
+		<zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="5" x="10131.37" z="7991.64" r="50"/> // chardak resort north
+		<zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="5" x="10079.48" z="9869.94" r="75"/> // borosh center
+		<zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="5" x="9935.37" z="9911.62" r="75"/> // borosh west
+		<zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="5" x="10019.16" z="10026.33" r="75"/> // borosh north house
+		<zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="5" x="11828.68" z="8120.69" r="75"/> // novi grad north
+		<zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="5" x="11944.60" z="7954.56" r="75"/> // novi grad east
+		<zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="5" x="11936.07" z="7772.71" r="75"/> // novi grad south
+    </territory>
+    <territory color="1291845632">
+        <zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="5" x="7019.36" z="9322.33" r="50"/>
+        <zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="5" x="6196.01" z="6941.69" r="50"/>
+		<zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="5" x="4857.97" z="5086.95" r="50"/> // kula church
+		<zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="5" x="11828.23" z="7934.57" r="50"/> // novi grad church
+    </territory>
+    <territory color="2387830984">
+        <zone name="InfectedMedic" smin="0" smax="0" dmin="2" dmax="4" x="11814.86" z="7963.97" r="50"/> // novi grad hospital
+        <zone name="InfectedMedic" smin="0" smax="0" dmin="2" dmax="4" x="8603.09" z="5412.26" r="50"/>
+		<zone name="InfectedMedic" smin="0" smax="0" dmin="2" dmax="4" x="10931.29" z="5321.39" r="50"/> // lower esseker medical
+		<zone name="InfectedMedic" smin="0" smax="0" dmin="2" dmax="4" x="8705.12" z="5868.90" r="50"/> // esseker medical
+    </territory>
+    <!--<territory color="4287731209">
+        <zone name="InfectedCityTier1" smin="0" smax="0" dmin="5" dmax="10" x="10100.1" z="21309858.8" r="100"/>
+        <zone name="InfectedCityTier1" smin="0" smax="0" dmin="10" dmax="15" x="10100.1" z="21309858.8" r="130"/>
+        <zone name="InfectedCityTier1" smin="0" smax="0" dmin="5" dmax="10" x="10100.1" z="21309858.8" r="130"/>
+        <zone name="InfectedCityTier1" smin="0" smax="0" dmin="10" dmax="15" x="10100.1" z="21309858.8" r="100"/>
+        <zone name="InfectedCityTier1" smin="0" smax="0" dmin="5" dmax="10" x="10100.1" z="21309858.8" r="100"/>
+        <zone name="InfectedCityTier1" smin="0" smax="0" dmin="5" dmax="10" x="10100.1" z="21309858.8" r="100"/>
+        <zone name="InfectedCityTier1" smin="0" smax="0" dmin="5" dmax="10" x="10100.1" z="21309858.8" r="120"/>
+    </territory>-->
+</territory-type>

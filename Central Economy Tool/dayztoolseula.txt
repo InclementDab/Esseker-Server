@@ -1,0 +1,42 @@
+General Provisions
+
+This is the license agreement ("license") between You and Us, the developers of DAYZ Tools ("software"), BOHEMIA INTERACTIVE a.s., Stribrna Lhota 747, 252 10, Mnisek pod Brdy, Czech Republic. All use of the software is limited by this license. If You do not agree with it, do not buy, download or use the software. This license, if accepted, allows You to use Our software on Your computer or device, but You do not own the software. We remain the owners of Our software and Your only rights to it are specified in this license.
+
+
+Your Rights
+
+- You may use the software and the content you create using the software for non-commercial purposes only.
+
+
+You May Not
+
+- You must not redistribute, sublicense, resell or otherwise provide the software, any of its parts or any hacked version of the software to any 3rd party.
+- Do not use the software or any of its parts commercially without Our permission.
+- You are not allowed to hack, modify or reverse engineer the software or any software files, its data or network Services. You are also not allowed to cheat, create cheats or promote cheats using the software.
+- Do not post any information in the software or in connection with the software that contains nudity, excessive violence, abuse, harassment, or offensive subject matter or that contains a link to such content.
+
+
+User-created Content
+
+If You create any content ("content") using the software, You may do so, but there are rules.
+
+- This content must not infringe anyone's copyrights or author rights, it must not be offensive to people or illegal in any other way.
+
+If You do not want to accept these rules, do not create and share any content using our software.
+
+
+Warranty, Liabilities and Termination
+
+- The software is provided 'as is', which means that We give You absolutely no warranties of any kind and We expressly refuse to take any liability for any damage which may result from use or inability to use the software.
+- You can only agree with the license if You have fully understood it and if You are capable of accepting it. Otherwise Your legal guardian (usually Your parent) may agree on Your behalf.
+- We can terminate the license at our own discretion anytime. Then You will no longer be allowed to download or use the software.
+- You can terminate the license at any time, by uninstalling the software from all Your devices and deleting all files of the software. This will mean that You will also no longer be allowed to use the software and We do not offer any refund. The paragraph "Warranty, liabilities, termination and others” remains in force even after the license is terminated.
+
+
+More Information
+
+As the world of laws and game industry may change quickly, We reserve the right to make changes to the license from time to time. In such case, You may need to accept a new license in order to use any future updates of the software or use any online Services associated with the software.
+
+All parts of the license are valid to the maximum extent permitted by law and nothing in it limits any of Your rights set by the applicable law. The license is governed by the law of the Czech Republic, and any dispute arising here under shall be resolved by Czech courts.
+
+While this license fully represents rules and Your rights to the software, You may find more details and explanation of what We consider acceptable and what We do not at https://www.bohemia.net/community/game-content-usage-rules. We take Your privacy seriously and this is the policy in place https://www.bohemia.net/privacy-policy to protect it. Your use of our online Services is subject to https://account.bistudio.com/terms-and-conditions.
