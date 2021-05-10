@@ -15569,13 +15569,15 @@
 		</group>
 		<!-- Custom Additions -->
 		<group name="Land_Tenement_Big" lootmax="32">
-				<container name="FloorCivilian" lootmax="30">
+				<usage name="Town" />
+				<usage name="Village"/>
+				<container name="loot" lootmax="30">
 						<category name="tools" />
 						<category name="food" />
 						<category name="containers" />
 						<category name="clothes" />
 						<category name="bags" />
-						<tag name="civilian" />
+						<tag name="floor" />
 						<point pos="5.215211 15.123657 9.234131" range="0.100000" height="0.250000" />
 						<point pos="3.862917 -2.640669 10.493590" range="0.108582" height="0.188389" />
 						<point pos="6.573243 15.137600 8.968749" range="0.134375" height="0.335938" />
@@ -15716,7 +15718,7 @@
 				<container name="SniperPost" lootmax="2">
 						<category name="rifles" />
 						<category name="weapons" />
-						<tag name="hunting" />
+						<tag name="floor" />
 						<point pos="-1.836304 21.903385 3.682861" range="0.237500" height="0.593750" />
 						<point pos="-1.862549 21.903385 -3.737854" range="0.237500" height="0.593750" />
 						<point pos="3.323974 21.903385 -7.820801" range="0.237500" height="0.593750" />
@@ -15730,13 +15732,15 @@
 				</container>
 		</group>
 		<group name="Land_Tenement_Small" lootmax="22">
-				<container name="FloorCivilian" lootmax="20">
+				<usage name="Town" />
+				<usage name="Village"/>
+				<container name="loot" lootmax="20">
 						<category name="tools" />
 						<category name="food" />
 						<category name="containers" />
 						<category name="clothes" />
 						<category name="bags" />
-						<tag name="civilian" />
+						<tag name="floor" />
 						<point pos="4.889892 2.802425 -10.342283" range="0.100000" height="0.188389" />
 						<point pos="6.562988 -6.529615 -2.167725" range="0.168750" height="0.357528" />
 						<point pos="-1.041626 -7.024171 -8.324950" range="0.168750" height="0.421875" />
@@ -15849,7 +15853,7 @@
 				<container name="SniperPost" lootmax="2">
 						<category name="rifles" />
 						<category name="weapons" />
-						<tag name="hunting" />
+						<tag name="floor" />
 						<point pos="3.208862 10.341135 -7.380310" range="0.237500" height="0.593750" />
 						<point pos="-1.966675 10.340734 -3.218078" range="0.237500" height="0.593750" />
 						<point pos="-1.972534 10.340734 4.157165" range="0.203125" height="0.507813" />
