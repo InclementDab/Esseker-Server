@@ -6,7 +6,7 @@
     <global>
         <background file="map.png" rgba="16777215"/>
         <layer size="4096"/>
-        <world size="15360"/>
+        <world size="12800"/>
     </global>
     <areas>
         <usages>
