@@ -26,7 +26,6 @@
         <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="12471" z="12009" r="200"/>
         <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9375" z="12720" r="200"/>
         <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10374" z="12426" r="200"/>
-        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="13509" z="12690" r="200"/>
         <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10620" z="13830" r="200"/>
         <zone name="Rest" smin="1" smax="2" dmin="0" dmax="0" x="6870.95" z="4877.85" r="200"/>
         <zone name="Rest" smin="1" smax="2" dmin="0" dmax="0" x="8796.2" z="7455.79" r="200"/>
