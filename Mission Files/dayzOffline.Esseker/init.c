@@ -14,7 +14,7 @@ void main()
 	if ( ce )
 		ce.InitOffline();
 	
-	//GetCEApi().ExportProxyData( "10240 0 10240", 20480 );  //Center of map, radius of how far to go out and find buildings.
+	//GetCEApi().ExportProxyData( vector.Zero, 100000 );  //Center of map, radius of how far to go out and find buildings.
 
 	//DATE RESET AFTER ECONOMY INIT-------------------------
 	int year, month, day, hour, minute;
