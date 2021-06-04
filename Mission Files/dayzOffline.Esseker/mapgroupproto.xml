@@ -13,14 +13,14 @@
 				<default name="clusterMatrix" de="TrajectoryPlum" width="12" height="12"/>
 
 		</defaults>
-		<group name="Land_loot_plane1" lootmax="4">
+		<group name="Land_LootPlaneOne" lootmax="4">
 			<usage name="Military" />
 			<container name="lootFloor" lootmax="4">
 				<point pos="-0.018715 0.028395 0.012245" range="0.5" height="1.5" /> 
 			</container>
 		</group>
 
-		<group name="Land_loot_plane2" lootmax="4">
+		<group name="Land_LootPlaneTwo" lootmax="4">
 			<usage name="Medic" />
 			<usage name="Police" />
 			<usage name="Hunting" />
@@ -29,7 +29,7 @@
 			</container>
 		</group>
 
-		<group name="Land_loot_plane3" lootmax="4">
+		<group name="Land_LootPlaneThree" lootmax="4">
 			<usage name="Medic" />
 			<usage name="Town" />
 			<usage name="Farm" />
@@ -38,7 +38,7 @@
 			</container>
 		</group>
 
-		<group name="Land_loot_plane4" lootmax="4">
+		<group name="Land_LootPlaneFour" lootmax="4">
 			<usage name="Military" />
 			<usage name="Firefight" />
 			<usage name="Police" />
@@ -47,7 +47,7 @@
 			</container>
 		</group>
 
-		<group name="Land_loot_plane5" lootmax="4">
+		<group name="Land_LootPlaneFive" lootmax="4">
 			<usage name="Coast" />
 			<usage name="Farm" />
 			<usage name="Town" />
