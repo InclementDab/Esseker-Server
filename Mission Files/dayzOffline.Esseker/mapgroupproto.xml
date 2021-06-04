@@ -13,50 +13,50 @@
 				<default name="clusterMatrix" de="TrajectoryPlum" width="12" height="12"/>
 
 		</defaults>
-<group name="loot_plane1" lootmax="4">
-	<usage name="Military" />
-	<container name="lootFloor" lootmax="4">
-		<point pos="-0.018715 0.028395 0.012245" range="0.5" height="1.5" /> 
-	</container>
-</group>
+		<group name="Land_loot_plane1" lootmax="4">
+			<usage name="Military" />
+			<container name="lootFloor" lootmax="4">
+				<point pos="-0.018715 0.028395 0.012245" range="0.5" height="1.5" /> 
+			</container>
+		</group>
 
-<group name="loot_plane2" lootmax="4">
-	<usage name="Medic" />
-	<usage name="Police" />
-	<usage name="Hunting" />
-	<container name="lootFloor" lootmax="4">
-		<point pos="0.000089 0.036206 0.012789" range="0.5" height="1.5" /> 
-	</container>
-</group>
+		<group name="Land_loot_plane2" lootmax="4">
+			<usage name="Medic" />
+			<usage name="Police" />
+			<usage name="Hunting" />
+			<container name="lootFloor" lootmax="4">
+				<point pos="0.000089 0.036206 0.012789" range="0.5" height="1.5" /> 
+			</container>
+		</group>
 
-<group name="loot_plane3" lootmax="4">
-	<usage name="Medic" />
-	<usage name="Town" />
-	<usage name="Farm" />
-	<container name="lootFloor" lootmax="4">
-		<point pos="-0.001352 0.036286 0.004998" range="0.5" height="1.5" /> 
-	</container>
-</group>
+		<group name="Land_loot_plane3" lootmax="4">
+			<usage name="Medic" />
+			<usage name="Town" />
+			<usage name="Farm" />
+			<container name="lootFloor" lootmax="4">
+				<point pos="-0.001352 0.036286 0.004998" range="0.5" height="1.5" /> 
+			</container>
+		</group>
 
-<group name="loot_plane4" lootmax="4">
-	<usage name="Military" />
-	<usage name="Firefight" />
-	<usage name="Police" />
-	<container name="lootFloor" lootmax="4">
-		<point pos="0.003979 0.090866 0.014001" range="0.5" height="1.5" /> 
-	</container>
-</group>
+		<group name="Land_loot_plane4" lootmax="4">
+			<usage name="Military" />
+			<usage name="Firefight" />
+			<usage name="Police" />
+			<container name="lootFloor" lootmax="4">
+				<point pos="0.003979 0.090866 0.014001" range="0.5" height="1.5" /> 
+			</container>
+		</group>
 
-<group name="loot_plane5" lootmax="4">
-	<usage name="Coast" />
-	<usage name="Farm" />
-	<usage name="Town" />
-	<usage name="Medic" />
-	<usage name="Hunting" />
-	<container name="lootFloor" lootmax="4">
-		<point pos="0.003035 0.049548 0.026026" range="0.5" height="1.5" /> 
-	</container>
-</group>
+		<group name="Land_loot_plane5" lootmax="4">
+			<usage name="Coast" />
+			<usage name="Farm" />
+			<usage name="Town" />
+			<usage name="Medic" />
+			<usage name="Hunting" />
+			<container name="lootFloor" lootmax="4">
+				<point pos="0.003035 0.049548 0.026026" range="0.5" height="1.5" /> 
+			</container>
+		</group>
 		<group name="Land_Shed_M1" lootmax="2">
 				<usage name="Industrial" />
 				<usage name="Farm" />
