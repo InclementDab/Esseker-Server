@@ -40,7 +40,7 @@
 
 		<group name="Land_LootPlaneFour" lootmax="4">
 			<usage name="Military" />
-			<usage name="Firefight" />
+			<usage name="Firefighter" />
 			<usage name="Police" />
 			<container name="lootFloor" lootmax="4">
 				<point pos="0.003979 0.090866 0.014001" range="0.5" height="1.5" /> 
