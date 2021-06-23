@@ -7,6 +7,6 @@
         <zone name="Zone_hen" smin="1" smax="2" dmin="0" dmax="0" x="7794.95" z="6912.95" r="50"/>
         <zone name="Zone_hen" smin="1" smax="2" dmin="0" dmax="0" x="9956.69" z="9885.8" r="50"/>
         <zone name="Zone_hen" smin="1" smax="2" dmin="0" dmax="0" x="10189.3" z="9779.61" r="50"/>
-        <zone name="Zone_hen" smin="1" smax="2" dmin="0" dmax="0" x="4990.49" z="8715.95" r="50"/>
+        <zone name="Zone_hen" smin="2" smax="5" dmin="0" dmax="0" x="4990.49" z="8715.95" r="50"/>
     </territory>
 </territory-type>
