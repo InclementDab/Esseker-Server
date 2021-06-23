@@ -242,20 +242,6 @@
             </territory>
         </territory-type>
         <territory-type name="zombie_territories">
-            <territory name="Medic" visible="0" color="2387830984">
-                <zone name="InfectedMedic" smin="0" smax="0" dmin="1" dmax="4" x="10051.2" z="5782.05" r="50" d="25"/>
-                <zone name="InfectedMedic" smin="0" smax="0" dmin="1" dmax="4" x="11758.8" z="7957.59" r="50" d="25"/>
-            </territory>
-            <territory name="Solitude" visible="0" color="1910952871">
-                <zone name="InfectedSolitude" smin="0" smax="0" dmin="6" dmax="10" x="8627.48" z="5875.76" r="80" d="2"/>
-            </territory>
-            <territory name="Religious" visible="0" color="1291845632">
-                <zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="3" x="7798.21" z="6925.92" r="50" d="2"/>
-                <zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="3" x="6372.5" z="6158.6" r="50" d="2"/>
-                <zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="3" x="11839.7" z="7915.93" r="50" d="2"/>
-                <zone name="" smin="0" smax="0" dmin="1" dmax="3" x="4945.1" z="8762.73" r="50" d="2"/>
-            </territory>
-            <territory name="Prisoner" visible="0" color="1289674462"/>
             <territory name="Army" visible="0" color="1896254208">
                 <zone name="InfectedArmy" smin="0" smax="0" dmin="7" dmax="12" x="8737.22" z="5371.38" r="80" d="2"/>
                 <zone name="InfectedArmy" smin="0" smax="0" dmin="5" dmax="10" x="9514.05" z="8464.47" r="70" d="2"/>
@@ -355,6 +341,20 @@
                 <zone name="InfectedCity" smin="0" smax="0" dmin="1" dmax="2" x="10103.6" z="7908.28" r="50" d="2"/>
                 <zone name="InfectedCity" smin="0" smax="0" dmin="1" dmax="2" x="8336.54" z="8626.21" r="50" d="2"/>
             </territory>
+            <territory name="Medic" visible="0" color="2387830984">
+                <zone name="InfectedMedic" smin="0" smax="0" dmin="1" dmax="4" x="10051.2" z="5782.05" r="50" d="25"/>
+                <zone name="InfectedMedic" smin="0" smax="0" dmin="1" dmax="4" x="11758.8" z="7957.59" r="50" d="25"/>
+            </territory>
+            <territory name="Solitude" visible="0" color="1910952871">
+                <zone name="InfectedSolitude" smin="0" smax="0" dmin="6" dmax="10" x="8627.48" z="5875.76" r="80" d="2"/>
+            </territory>
+            <territory name="Religious" visible="0" color="1291845632">
+                <zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="3" x="7798.21" z="6925.92" r="50" d="2"/>
+                <zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="3" x="6372.5" z="6158.6" r="50" d="2"/>
+                <zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="3" x="11839.7" z="7915.93" r="50" d="2"/>
+                <zone name="" smin="0" smax="0" dmin="1" dmax="3" x="4945.1" z="8762.73" r="50" d="2"/>
+            </territory>
+            <territory name="Prisoner" visible="0" color="1289674462"/>
         </territory-type>
     </territory-type-list>
 </zg-config>

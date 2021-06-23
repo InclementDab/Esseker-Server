@@ -34,5 +34,10 @@
         <zone name="Rest" smin="1" smax="2" dmin="0" dmax="0" x="6965.53" z="6114.87" r="200"/>
         <zone name="Rest" smin="1" smax="2" dmin="0" dmax="0" x="7729.35" z="6532.78" r="200"/>
         <zone name="Rest" smin="1" smax="2" dmin="0" dmax="0" x="11588.5" z="4488.09" r="200"/>
+        <zone name="Graze" smin="1" smax="2" dmin="0" dmax="0" x="10287.6" z="5523.41" r="100"/>
+        <zone name="Graze" smin="1" smax="2" dmin="0" dmax="0" x="9702.22" z="5507.68" r="70"/>
+        <zone name="Graze" smin="1" smax="2" dmin="0" dmax="0" x="10356.2" z="8631.75" r="70"/>
+        <zone name="Graze" smin="1" smax="2" dmin="0" dmax="0" x="10551.1" z="8711.27" r="70"/>
+        <zone name="Graze" smin="1" smax="2" dmin="0" dmax="0" x="10449.8" z="7362.56" r="200"/>
     </territory>
 </territory-type>
