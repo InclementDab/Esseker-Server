@@ -25,5 +25,6 @@
         <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="0" x="6587.5" z="6590" r="142.5"/>
         <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="0" x="7740" z="7127.5" r="105"/>
         <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="0" x="8512.5" z="10947.5" r="105"/>
+        <zone name="Graze" smin="2" smax="6" dmin="0" dmax="0" x="8127.08" z="9581.25" r="50"/>
     </territory>
 </territory-type>

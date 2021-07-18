@@ -15,5 +15,6 @@
         <zone name="Graze" smin="1" smax="2" dmin="0" dmax="0" x="8906.27" z="5683.14" r="80"/>
         <zone name="Rest" smin="1" smax="2" dmin="0" dmax="0" x="9188.24" z="5458.36" r="80"/>
         <zone name="Rest" smin="1" smax="3" dmin="0" dmax="0" x="10713.5" z="10337.9" r="50"/>
+        <zone name="Graze" smin="1" smax="2" dmin="0" dmax="0" x="8129.17" z="9581.25" r="50"/>
     </territory>
 </territory-type>
