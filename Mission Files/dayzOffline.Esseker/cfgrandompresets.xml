@@ -347,7 +347,7 @@
 		
 		<!-- -------------------------  FIREFIGHTER ATTACHMENTS  ------------------------- -->
 		<attachments chance="1.00" name="hatsFirefighter">
-                <item name="FirefightersHelmet_White" chance="0.33" />
+				<item name="FirefightersHelmet_White" chance="0.33" />
 				<item name="FirefightersHelmet_Red" chance="0.66" />
 				<item name="FirefightersHelmet_Yellow" chance="1.00" />
 		</attachments>
@@ -364,7 +364,7 @@
 			<item name="TankerHelmet" chance="0.10" />
 			<item name="PilotkaCap" chance="0.10" />
 			<!-- <item name="GorkaHelmet" chance="0.10" /> Problem with animation of chin cover -->
-            <item name="MilitaryBeret_Red" chance="0.10" />
+			<item name="MilitaryBeret_Red" chance="0.10" />
 			<item name="MilitaryBeret_UN" chance="0.10" />
 			<item name="MilitaryBeret_NZ" chance="0.10" />
 			<item name="MilitaryBeret_ChDKZ" chance="0.05" />
@@ -391,7 +391,7 @@
 			<item name="SmershBag" chance="0.05" />
 			<item name="CoyoteBag_Brown" chance="0.01" />
 			<item name="CoyoteBag_Green" chance="0.01" />
-            <item name="AliceBag_Camo" chance="0.05" />
+			<item name="AliceBag_Camo" chance="0.05" />
 			<item name="AliceBag_Green" chance="0.05" />
 			<item name="AliceBag_Black" chance="0.05" />
 		</attachments>

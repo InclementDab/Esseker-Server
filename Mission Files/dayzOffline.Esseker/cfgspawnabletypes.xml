@@ -157,16 +157,16 @@
 		<cargo chance="1">
 			<item name="BandageDressing" />
 		</cargo>
-        <cargo chance="0.8">
+		<cargo chance="0.8">
 			<item name="Thermometer" />
 		</cargo>
-        <cargo chance="0.8">
+		<cargo chance="0.8">
 			<item name="StartKitIV" />
 		</cargo>
 		<cargo chance="0.8">
 			<item name="BloodBagEmpty" />
 		</cargo>
-        <cargo chance="0.8">
+		<cargo chance="0.8">
 			<item name="BloodTestKit" />
 		</cargo>
 	</type>
@@ -1554,7 +1554,7 @@
 	</type>
 	<type name="ZmbM_PolicemanSpecForce">
 		<cargo preset="toolsPolice" />
-        <cargo preset="ammoPolice" />
+		<cargo preset="ammoPolice" />
 		<cargo chance="0.1">
 			<item name="Mag_Scout_5Rnd" chance="1.0" />
 		</cargo>
@@ -2005,7 +2005,7 @@
 		<attachments chance="0.15">
 			<item name="AK_Suppressor" chance="1.00" />
 		</attachments>
-        <attachments chance="0.30">
+		<attachments chance="0.30">
 			<item name="Mag_AK74_45Rnd" chance="0.15" />
 			<item name="Mag_AK74_30Rnd" chance="1.00" />
 		</attachments>
@@ -2068,7 +2068,7 @@
 	</type>
 	<type name="FAL">
 		<attachments chance="1.00">
-            <item name="Fal_FoldingBttstck" chance="0.50" />
+			<item name="Fal_FoldingBttstck" chance="0.50" />
 			<item name="Fal_OeBttstck" chance="1.00" />
 		</attachments>
 		<attachments chance="0.20">
